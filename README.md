@@ -1,7 +1,7 @@
 # Modern-Landing-Page-Using-SheryJS
 
 I made an attempt to make Modern Landing webpage using web3 JavaScript library SheryJS from npmJS JavaScript store for libraries online.<br>
-Made this Modern Style Landing Page using HTML5, CSS3 and JavaScript and it's libarry Shery.JS <br>
+Made this Modern Style Landing Page using HTML5, CSS3 and JavaScript and it's library Shery.JS <br>
 
 <li>Imported Shery CSS using below Link</li>
 
